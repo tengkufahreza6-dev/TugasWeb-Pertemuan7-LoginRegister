@@ -12,11 +12,11 @@ Untuk pengujian cepat tanpa registrasi ulang, dapat menggunakan kredensial bawaa
 
 | Halaman Login | Halaman Registrasi |
 | :---: | :---: |
-| ![Login Page](screenshots login.png) | ![Register Page](screenshots register.png) |
+| ![Login Page](screenshotslogin.png) | ![Register Page](screenshotsregister.png) |
 
 | Halaman Dashboard | Halaman Edit Profil |
 | :---: | :---: |
-| ![Dashboard Page](screenshots dashboard.png) | ![Edit Profile Page](screenshots edit-profile.png) |
+| ![Dashboard Page](screenshotsdashboard.png) | ![Edit Profile Page](screenshotsedit-profile.png) |
 
 ---
 
