@@ -2,6 +2,11 @@
 
 Proyek ini merupakan sistem autentikasi pengguna (**Login & Register**) berbasis **PHP Native** tanpa database SQL, menggunakan berkas **`users.json`** sebagai media penyimpanan data persisten. Antarmuka dikembangkan dengan pendekatan **Dark Glassmorphism** yang responsif dan terintegrasi dengan standar keamanan backend modern.
 
+## 🔑 Akun Demo Pengujian
+
+Untuk pengujian cepat tanpa registrasi ulang, dapat menggunakan kredensial bawaan pada `users.json`:
+- **Email:** `tester@gmail.com`
+- **Password:** `tester123`
 ---
 
 ## 📌 Pemenuhan Kriteria Utama & Keamanan Backend
