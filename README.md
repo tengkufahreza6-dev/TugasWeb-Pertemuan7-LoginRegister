@@ -12,6 +12,26 @@ Untuk pengujian cepat tanpa registrasi ulang, dapat menggunakan kredensial bawaa
 
 ---
 
+## 🚀 Cara Menjalankan Proyek (Local Development)
+
+Proyek ini merupakan aplikasi backend berbasis **PHP Native** sehingga membutuhkan *web server* lokal (seperti **Laragon** atau **XAMPP**) dan tidak dapat dijalankan via GitHub Pages:
+
+1. **Unduh / Clone Repositori:**
+   ```bash
+   git clone [https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan7-LoginRegister.git](https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan7-LoginRegister.git)
+2. Pindahkan Folder Proyek:
+
+   - Laragon: Simpan folder pada direktori C:\laragon\www\
+
+   - XAMPP: Simpan folder pada direktori C:\xampp\htdocs\
+
+3. Jalankan Web Server:
+   Pastikan service Apache pada Laragon/XAMPP dalam kondisi Start.
+
+4. Buka di Browser:
+   Akses http://localhost/TugasWeb-Pertemuan7-LoginRegister/ melalui peramban web.
+---
+
 ## 📷 Tangkapan Layar Antarmuka
 
 | Halaman Login | Halaman Registrasi |
