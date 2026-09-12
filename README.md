@@ -19,17 +19,17 @@ Proyek ini merupakan aplikasi backend berbasis **PHP Native** sehingga membutuhk
 1. **Unduh / Clone Repositori:**
    git clone :
    [Link Repository](https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan7-LoginRegister.git)
-   
-2. Pindahkan Folder Proyek:
 
-   - Laragon: Simpan folder pada direktori C:\laragon\www\
+2. **Pindahkan Folder Proyek:**
 
-   - XAMPP: Simpan folder pada direktori C:\xampp\htdocs\
+   - **Laragon**: Simpan folder pada direktori C:\laragon\www\
 
-3. Jalankan Web Server:
+   - **XAMPP**: Simpan folder pada direktori C:\xampp\htdocs\
+
+3. **Jalankan Web Server:**
    Pastikan service Apache pada Laragon/XAMPP dalam kondisi Start.
 
-4. Buka di Browser:
+4. **Buka di Browser:**
    Akses http://localhost/TugasWeb-Pertemuan7-LoginRegister/ melalui peramban web.
 ---
 
