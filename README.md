@@ -17,9 +17,9 @@ Untuk pengujian cepat tanpa registrasi ulang, dapat menggunakan kredensial bawaa
 Proyek ini merupakan aplikasi backend berbasis **PHP Native** sehingga membutuhkan *web server* lokal (seperti **Laragon** atau **XAMPP**) dan tidak dapat dijalankan via GitHub Pages:
 
 1. **Unduh / Clone Repositori:**
-   ```bash
    git clone :
    [Link Repository](https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan7-LoginRegister.git)
+   
 2. Pindahkan Folder Proyek:
 
    - Laragon: Simpan folder pada direktori C:\laragon\www\
