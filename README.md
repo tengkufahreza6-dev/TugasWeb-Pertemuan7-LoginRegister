@@ -18,7 +18,8 @@ Proyek ini merupakan aplikasi backend berbasis **PHP Native** sehingga membutuhk
 
 1. **Unduh / Clone Repositori:**
    ```bash
-   git clone [https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan7-LoginRegister.git](https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan7-LoginRegister.git)
+   git clone :
+   [Link Repository](https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan7-LoginRegister.git)
 2. Pindahkan Folder Proyek:
 
    - Laragon: Simpan folder pada direktori C:\laragon\www\
